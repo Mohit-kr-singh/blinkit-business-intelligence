@@ -19,7 +19,7 @@ This dashboard provides clear, actionable insights that help optimize:
 
 ## 📸 Dashboard Preview
 
-![BlinkIT Dashboard]()
+![BlinkIT Dashboard](Dataset/Images/dashboard.png)
 
 ---
 
