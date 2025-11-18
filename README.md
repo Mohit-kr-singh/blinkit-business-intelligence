@@ -1,4 +1,4 @@
-# 📊  Blinkit-business-intelligence (Power BI) (Power BI)
+# 📊  Blinkit-business-intelligence (Power BI)
 
 A fully interactive **Power BI dashboard** built to analyze sales performance, customer behavior, and product trends for BlinkIT’s grocery business.  
 This project demonstrates strong skills in **data cleaning, data modeling, DAX, and dashboard design**, making it ideal for data analytics portfolios and job applications.
@@ -19,7 +19,7 @@ This dashboard provides clear, actionable insights that help optimize:
 
 ## 📸 Dashboard Preview
 
-![BlinkIT Dashboard](dataset/images/dashboard.png)
+![BlinkIT Dashboard]()
 
 ---
 
